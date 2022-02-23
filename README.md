@@ -1,4 +1,4 @@
-
+![alt text](https://github.com/wannazid/URL-Shortener-Using-Python/blob/main/IMG_20220223_205611.jpg)
 # URL Shortener Using Python
 Pemendek URL yang menggunakan bahasa pemrograman python, tools ini berbasis CLI dan menggunakan APi dari Bitly
 # Tujuan
